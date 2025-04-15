@@ -1,1 +1,1 @@
-# MappleApiGame
+// README.md starter content
